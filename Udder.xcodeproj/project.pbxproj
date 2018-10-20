@@ -12,6 +12,9 @@
 		04068312217B722D000B5AC2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04068310217B722D000B5AC2 /* Main.storyboard */; };
 		04068314217B7236000B5AC2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04068313217B7236000B5AC2 /* Assets.xcassets */; };
 		04068317217B7236000B5AC2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04068315217B7236000B5AC2 /* LaunchScreen.storyboard */; };
+		04068321217B844B000B5AC2 /* dice4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0406831E217B844B000B5AC2 /* dice4@2x.png */; };
+		04068322217B844B000B5AC2 /* dice4.png in Resources */ = {isa = PBXBuildFile; fileRef = 0406831F217B844B000B5AC2 /* dice4.png */; };
+		04068323217B844B000B5AC2 /* dice4@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04068320217B844B000B5AC2 /* dice4@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		04068313217B7236000B5AC2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04068316217B7236000B5AC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04068318217B7236000B5AC2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0406831E217B844B000B5AC2 /* dice4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dice4@2x.png"; sourceTree = "<group>"; };
+		0406831F217B844B000B5AC2 /* dice4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dice4.png; sourceTree = "<group>"; };
+		04068320217B844B000B5AC2 /* dice4@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dice4@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 				0406830E217B722D000B5AC2 /* ViewController.swift */,
 				04068310217B722D000B5AC2 /* Main.storyboard */,
 				04068313217B7236000B5AC2 /* Assets.xcassets */,
+				0406831F217B844B000B5AC2 /* dice4.png */,
+				0406831E217B844B000B5AC2 /* dice4@2x.png */,
+				04068320217B844B000B5AC2 /* dice4@3x.png */,
 				04068315217B7236000B5AC2 /* LaunchScreen.storyboard */,
 				04068318217B7236000B5AC2 /* Info.plist */,
 			);
@@ -124,7 +133,10 @@
 			files = (
 				04068317217B7236000B5AC2 /* LaunchScreen.storyboard in Resources */,
 				04068314217B7236000B5AC2 /* Assets.xcassets in Resources */,
+				04068321217B844B000B5AC2 /* dice4@2x.png in Resources */,
+				04068322217B844B000B5AC2 /* dice4.png in Resources */,
 				04068312217B722D000B5AC2 /* Main.storyboard in Resources */,
+				04068323217B844B000B5AC2 /* dice4@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
